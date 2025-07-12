@@ -3,6 +3,25 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "description": "Interactive learning application for children featuring alphabet, numbers, phonics, and educational games. Developed by AHMED GREENS TECH.",
+  "author": "AHMED GREENS TECH",
+  "license": "PROPRIETARY",
+  "copyright": "© 2025 AHMED GREENS TECH. All rights reserved.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AHMED-OWUSU/kidz-learn-app.git"
+  },
+  "keywords": [
+    "education",
+    "learning",
+    "kids",
+    "alphabet",
+    "numbers",
+    "phonics",
+    "games",
+    "react",
+    "typescript"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",

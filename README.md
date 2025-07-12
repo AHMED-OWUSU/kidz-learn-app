@@ -1,28 +1,48 @@
 # Kidz Learn - Educational Adventures
 
-An interactive learning application designed to help children learn the alphabet, numbers, phonics, and develop essential skills through fun educational games.
+<div align="center">
 
-## Features
+![Kidz Learn Logo](public/favicon.svg)
 
-- **Alphabet Learning**: Interactive alphabet exercises and quizzes
-- **Number Recognition**: Counting games and number matching activities
-- **Phonics Practice**: Sound-based learning activities
-- **Memory Games**: Fun memory challenges to improve cognitive skills
-- **Puzzle Games**: Educational puzzles to develop problem-solving abilities
-- **Shape Sorting**: Geometry and spatial awareness activities
-- **Word Building**: Interactive word construction games
+**Interactive Learning Application for Children**
 
-## Technologies Used
+*Developed with ❤️ by [AHMED GREENS TECH](https://github.com/AHMED-OWUSU)*
 
-This project is built with modern web technologies:
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
+[![Made with React](https://img.shields.io/badge/Made%20with-React-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-- **Vite** - Fast build tool and development server
-- **TypeScript** - Type-safe JavaScript development
-- **React** - Modern UI library
-- **shadcn/ui** - Beautiful, accessible UI components
-- **Tailwind CSS** - Utility-first CSS framework
+</div>
 
-## Getting Started
+---
+
+## 🎯 About
+
+**Kidz Learn** is an innovative educational application designed to help children learn the alphabet, numbers, phonics, and develop essential cognitive skills through engaging, interactive games and activities.
+
+**© 2025 AHMED GREENS TECH. All rights reserved.**
+
+## ✨ Features
+
+- **🎵 Alphabet Learning**: Interactive alphabet exercises and quizzes
+- **🔢 Number Recognition**: Counting games and number matching activities  
+- **🔤 Phonics Practice**: Sound-based learning activities
+- **🧠 Memory Games**: Fun memory challenges to improve cognitive skills
+- **🧩 Puzzle Games**: Educational puzzles to develop problem-solving abilities
+- **📐 Shape Sorting**: Geometry and spatial awareness activities
+- **📝 Word Building**: Interactive word construction games
+
+## 🛠️ Technologies Used
+
+This project is built with cutting-edge web technologies:
+
+- **⚡ Vite** - Lightning-fast build tool and development server
+- **🔷 TypeScript** - Type-safe JavaScript development
+- **⚛️ React** - Modern UI library for building user interfaces
+- **🎨 shadcn/ui** - Beautiful, accessible UI components
+- **🎯 Tailwind CSS** - Utility-first CSS framework
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -31,25 +51,25 @@ This project is built with modern web technologies:
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/AHMED-OWUSU/kidz-learn-app.git
 cd kidz-learn-app
 ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 ```bash
 npm install
 ```
 
-3. Start the development server:
+3. **Start the development server:**
 ```bash
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. **Open your browser and navigate to `http://localhost:8080`**
 
-## Development
+## 🏗️ Development
 
 ### Available Scripts
 
@@ -73,18 +93,26 @@ src/
 └── utils/               # Helper functions
 ```
 
-## Contributing
+## 📄 License
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+**© 2025 AHMED GREENS TECH. All rights reserved.**
 
-## License
+This software and its documentation are proprietary and confidential. Unauthorized copying, distribution, or use of this software, via any medium, is strictly prohibited.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 🤝 Support
 
-## Support
+For support, questions, or business inquiries, please contact:
 
-For support and questions, please open an issue in the GitHub repository.
+- **Developer**: AHMED GREENS TECH
+- **GitHub**: [@AHMED-OWUSU](https://github.com/AHMED-OWUSU)
+- **Email**: [Contact through GitHub]
+
+---
+
+<div align="center">
+
+**Made with ❤️ by AHMED GREENS TECH**
+
+*Empowering education through technology*
+
+</div>
